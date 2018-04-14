@@ -5,4 +5,6 @@
     <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
     <string name="use_text">Use Text</string>
 
+    <string name="low_storage_error">Device does not have enough storage for text detection!</string>
+
 </resources>
